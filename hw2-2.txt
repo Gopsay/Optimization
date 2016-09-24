@@ -1,0 +1,17 @@
+
+
+----     45 MODEL Bussville.ModelStat      =        1.000  
+            MODEL Bussville.SolveStat      =        1.000  
+            MODEL Bussville.ObjVal         =      830.000  
+
+----     45 VARIABLE x.L  Students assigned for each school from each district a
+                          nd minority status
+
+                     Minority  Non-Minor~
+
+District1.Cooley       50.000     200.000
+District2.Whitman      50.000     250.000
+District3.Cooley       45.000      55.000
+District3.Whitman      55.000      95.000
+
+

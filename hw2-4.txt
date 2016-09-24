@@ -1,0 +1,15 @@
+----     69 MODEL SilvcoCost.ModelStat     =        1.000  
+            MODEL SilvcoCost.SolveStat     =        1.000  
+            MODEL SilvcoCost.ObjVal        =   641725.352  
+
+----     69 VARIABLE melt.L  Total transistors that are melt using method 1 or 2
+
+method1 10563.380
+
+
+----     69 VARIABLE refire.L  Total transistors that are refired
+
+          defective      grade1
+
+method1    3169.014    1373.239
+

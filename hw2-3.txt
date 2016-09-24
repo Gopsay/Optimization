@@ -1,0 +1,44 @@
+Question 3.1
+
+----     31 MODEL MaxReach1.ModelStat      =        1.000  
+            MODEL MaxReach1.SolveStat      =        1.000  
+            MODEL MaxReach1.ObjVal         =  9.800000E+7  
+
+----     31 VARIABLE Advt.L  Total units of each mode of advertising allocated w
+                             hen radio is not used
+
+TV       10.000,    magazine 80.000
+
+
+Question 3.2
+
+----     42 MODEL MaxReach2.ModelStat      =        1.000  
+            MODEL MaxReach2.SolveStat      =        1.000  
+            MODEL MaxReach2.ObjVal         =  9.200000E+7  
+
+----     42 VARIABLE Advt.L  Total units of each mode of advertising allocated w
+                             hen radio is not used
+
+TV       40.000,    magazine 20.000
+
+
+Question 3.3
+
+----     58 MODEL MaxReach3.ModelStat      =        1.000  
+            MODEL MaxReach3.SolveStat      =        1.000  
+            MODEL MaxReach3.ObjVal         =  1.180000E+8  
+
+----     58 VARIABLE Adv.L  Total units of each mode of advertising allocated
+
+TV     10.000,    Radio 400.000
+
+
+Question 3.4
+
+----     67 MODEL MaxReach4.ModelStat      =        1.000  
+            MODEL MaxReach4.SolveStat      =        1.000  
+            MODEL MaxReach4.ObjVal         =  1.001943E+8  
+
+----     67 VARIABLE Adv.L  Total units of each mode of advertising allocated
+
+TV        29.029,    magazine  17.943,    Radio    120.000

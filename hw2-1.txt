@@ -1,0 +1,10 @@
+
+----     48 MODEL PVProduction.ModelStat   =        1.000  
+            MODEL PVProduction.SolveStat   =        1.000  
+            MODEL PVProduction.ObjVal      =     6450.000  
+
+----     48 VARIABLE acquire.L  Pig valve requirements for each supplier and pro
+                                duct mix
+
+1 700.000,    2 700.000,    3  50.000
+
